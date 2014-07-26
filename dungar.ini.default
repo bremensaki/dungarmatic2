@@ -1,0 +1,10 @@
+# bare minimum config
+[main]
+debug=True
+xmppUser='dungarmatic@jabberzac.org'
+xmppNick='Dungarmanic'
+xmppPass=''
+dbuser='dungarmatic'
+dbpass=''
+dbhost='localhost'
+database='dungarmatic'
